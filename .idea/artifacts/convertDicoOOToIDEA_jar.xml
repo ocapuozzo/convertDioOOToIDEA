@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="convertDicoOOToIDEA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/convertDicoOOToIDEA_jar</output-path>
+    <root id="archive" name="convertDicoOOToIDEA.jar">
+      <element id="module-output" name="convertDicoOOToIDEA" />
+    </root>
+  </artifact>
+</component>
